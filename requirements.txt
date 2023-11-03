@@ -1,0 +1,16 @@
+
+# Tkinter 
+tkinter
+customtkinter
+
+
+pandas
+
+# Plotting/graphs
+matplotlib
+
+# Environment variables
+python-dotenv
+
+# Yahoo imports
+yfinance
